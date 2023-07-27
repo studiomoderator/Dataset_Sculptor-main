@@ -101,3 +101,16 @@ A placeholder for an upcoming feature aiming to provide advanced auto-captioning
 - **exiftool**: A tool crucial for reading, writing, and editing meta information in files, especially for handling image metadata.
 - **Salesforce's Blip**: A model from the HuggingFace's Transformers library, specifically used for question-answering tasks related to images.
 
+## Additional Documentation
+
+**- Screenshots**
+https://github.com/studiomoderator/Dataset_Sculptor-main/blob/main/screenshots.md
+
+**- Video intro**
+https://www.youtube.com/watch?v=KgSQK7oN_rQ
+
+**- Video walkthrough**
+https://www.youtube.com/watch?v=KgSQK7oN_rQ
+
+
+
