@@ -1,0 +1,12 @@
+1. Open Command Prompt in 
+
+C:\stable-diffusion\Dataset_Sculptor-main
+
+2. Activate virtual environment with: 
+
+venv\Scripts\activate.bat
+
+3. Run the script with with input/output args (Replace with your own paths below)
+
+python dataset_sculptor.py --input_dir C:/Training_DS/Input --output_dir C:/Training_DS/Output
+
