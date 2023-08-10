@@ -110,7 +110,7 @@ https://github.com/studiomoderator/Dataset_Sculptor-main/blob/main/screenshots.m
 https://www.youtube.com/watch?v=KgSQK7oN_rQ
 
 **- Video walkthrough**
-https://www.youtube.com/watch?v=9Ad4VTWi5ns
+https://www.youtube.com/watch?v=9Ad4VTWi5ns&t=18s
 
 
 
